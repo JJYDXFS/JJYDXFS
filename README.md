@@ -25,11 +25,11 @@
 ## :trophy: My Github Stats:
 
 <div align="center">
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=JJYDXFS&theme=vue&count_private=true&show_icons=true&layout=compact">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=JJYDXFS&theme=vue&count_private=true&show_icons=true&layout=compact" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=JJYDXFS&theme=vue&count_private=true&show_icons=true">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=JJYDXFS&theme=vue&count_private=true&show_icons=true" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JJYDXFS&theme=vue&langs_count=5&layout=compact">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJYDXFS&theme=vue&langs_count=8&layout=compact" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JJYDXFS&theme=vue&langs_count=5">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJYDXFS&theme=vue&langs_count=5" />
 </a>
 </div>
 
