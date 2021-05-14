@@ -6,8 +6,8 @@
 ## 🎓 I'm a graduating undergraduate majoring in Computer Science
 
 - 🌱 I’m currently learning, no, reviewing what I need to pass the entrance exam.
-- 💬 Ask me about anything, if you think I know it.
-- 📫 How to reach me: By sending [📧][Gmail]. I will see it sooner or later, I promise.
+- 💬 Ask me about anything.
+- 📫 How to reach me: By sending 📧 to sgjzp.joyce@gmail.com. I will see it sooner or later, I promise.
 - ⚡ Fun fact: A big fan of A Song of Ice and Fire and Minecraft.
 
 ## 🧰 Languages and Tools:
