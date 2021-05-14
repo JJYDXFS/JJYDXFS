@@ -25,7 +25,7 @@
 ## :trophy: My Github Stats:
 
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=JJYDXFS&count_private=true&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJYDXFS)](https://github.com/JJYDXFS/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJYDXFS&langs_count=5)](https://github.com/JJYDXFS/github-readme-stats)
 
 <br />
 
