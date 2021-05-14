@@ -24,25 +24,16 @@
 
 ## :trophy: My Github Stats:
 
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=JJYDXFS&count_private=true&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJYDXFS&langs_count=5)
+<div align="center">
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=JJYDXFS&theme=vue&count_private=true&show_icons=true&layout=compact">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=JJYDXFS&theme=vue&count_private=true&show_icons=true&layout=compact" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JJYDXFS&theme=vue&langs_count=5&layout=compact">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJYDXFS&theme=vue&langs_count=8&layout=compact" />
+</a>
+</div>
 
 <br />
 
 [website]:https://jjydxfs.github.io/
 [Gmail]:sgjzp.joyce@gmail.com
-
-<!--
-**JJYDXFS/JJYDXFS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
