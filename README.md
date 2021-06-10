@@ -29,15 +29,11 @@
 ## :trophy: My Github Stats:
 
 <div align="center">
-<a href="https://github-readme-stats-five-swart-44.vercel.app
-/api?username=JJYDXFS&theme=vue&count_private=true&show_icons=true">
-  <img  align="left" src="https://github-readme-stats-five-swart-44.vercel.app
-/api?username=JJYDXFS&theme=vue&count_private=true&show_icons=true" />
+<a href="https://https://github-readme-stats-jjydxfs.vercel.app/api?username=JJYDXFS&theme=vue&count_private=true&show_icons=true">
+  <img  align="left" src="https://github-readme-stats-jjydxfs.vercel.app/api?username=JJYDXFS&theme=vue&count_private=true&show_icons=true" />
 </a>
-<a href="https://github-readme-stats-five-swart-44.vercel.app
-/api/top-langs/?username=JJYDXFS&theme=vue&langs_count=5&hide=html">
-  <img align="left" src="github-readme-stats-five-swart-44.vercel.app
-/api/top-langs/?username=JJYDXFS&theme=vue&langs_count=5&hide=html" />
+<a href="https://github-readme-stats-jjydxfs.vercel.app/api/top-langs/?username=JJYDXFS&theme=vue&langs_count=5&hide=html">
+  <img align="left" src="https://github-readme-stats-jjydxfs.vercel.app/api/top-langs/?username=JJYDXFS&theme=vue&langs_count=5&hide=html" />
 </a>
 </div>
 
