@@ -32,8 +32,8 @@
 <a href="https://https://github-readme-stats-jjydxfs.vercel.app/api?username=JJYDXFS&theme=vue&count_private=true&show_icons=true">
   <img  align="left" src="https://github-readme-stats-jjydxfs.vercel.app/api?username=JJYDXFS&theme=vue&count_private=true&show_icons=true" />
 </a>
-<a href="https://github-readme-stats-jjydxfs.vercel.app/api/top-langs/?username=JJYDXFS&theme=vue&langs_count=5&hide=html">
-  <img align="left" src="https://github-readme-stats-jjydxfs.vercel.app/api/top-langs/?username=JJYDXFS&theme=vue&langs_count=5&hide=html" />
+<a href="https://github-readme-stats-jjydxfs.vercel.app/api/top-langs/?username=JJYDXFS&theme=vue&langs_count=5&hide=html,css">
+  <img align="left" src="https://github-readme-stats-jjydxfs.vercel.app/api/top-langs/?username=JJYDXFS&theme=vue&langs_count=5&hide=html,css" />
 </a>
 </div>
 
