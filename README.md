@@ -8,7 +8,11 @@
 - 🌱 I’m currently growing up to be a qualified postgraduate.
 - 💬 Ask me about anything.
 - 📫 How to reach me: By sending 📧 to sgjzp.joyce@gmail.com.
-- ⚡ Fun fact: A big fan of A Song of Ice and Fire and Minecraft.
+- ⚡ Fun fact: Coding, Reading, Building and Trading.
+  - Coding: I believe that coding is an art, where every line of code is a brushstroke that creates a masterpiece.
+  - Reading: I love reading historical books and epic novels, such as 'A Song of Ice and Fire'. If I lived in Westeros, I think I would either be a wandering bard or a maester studying history in the Citadel!
+  - Building: I enjoy building miniature models, and I find the step-by-step process of constructing them similar to coding, which may be the reason why I love both of them.
+  - Trading: Despite experiencing continuous losses in the Chinese stock market, I still find trading to be a fascinating pursuit.
 
 ## 🧰 Languages and Tools:
 <p align="center">
