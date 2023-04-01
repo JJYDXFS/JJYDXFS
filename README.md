@@ -3,7 +3,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=JJYDXFS.JJYDXFS)
 [![Github](https://img.shields.io/github/followers/JJYDXFS?label=Followers&logo=Github)](https://github.com/JJYDXFS)
 
-## 🎓 I'm a gradute student in Computer Science
+## 🎓 I'm a postgradute in Computer Science
 
 - 🌱 I’m currently growing up to be a qualified postgraduate.
 - 💬 Ask me about anything.
