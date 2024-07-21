@@ -3,9 +3,9 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=JJYDXFS.JJYDXFS)
 [![Github](https://img.shields.io/github/followers/JJYDXFS?label=Followers&logo=Github)](https://github.com/JJYDXFS)
 
-## 🎓 I'm a postgradute in Computer Science
+## 🎓 I'm a gradute student in Computer Science
 
-- 🌱 I’m currently growing up to be a qualified postgraduate.
+- 🌱 I’m currently growing up to be a qualified data scientist.
 - 💬 Ask me about anything.
 - 📫 How to reach me: By sending 📧 to sgjzp.joyce@gmail.com.
 - ⚡ Fun fact: Coding, Reading, Building and Trading.
