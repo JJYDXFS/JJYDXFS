@@ -1,17 +1,15 @@
-## Hi there 👋 This is [JJYDXFS][website] 😋
+## Hi there 👋 This is [JJYDXFS][website] 🤖
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=JJYDXFS.JJYDXFS)
 [![Github](https://img.shields.io/github/followers/JJYDXFS?label=Followers&logo=Github)](https://github.com/JJYDXFS)
 
-## 🎓 I'm a gradute student in Computer Science
+## 🎓 I major in Computer Science
 
 - 🌱 I’m currently growing up to be a qualified data scientist.
 - 💬 Ask me about anything.
-- 📫 How to reach me: By sending 📧 to sgjzp.joyce@gmail.com.
-- ⚡ Fun fact: Coding, Reading, and Building.
-  - Coding: I believe that coding is an art, where every line of code is a brushstroke that creates a masterpiece.
-  - Reading: I love reading historical books and epic novels, such as 'A Song of Ice and Fire'. If I lived in Westeros, I think I would either be a wandering bard or a maester studying history in the Citadel!
-  - Building: I enjoy building miniature models, and I find the step-by-step process of constructing them similar to coding, which may be the reason why I love both of them.
+- 📫 How to reach me: sgjzp.joyce@gmail.com.
+
+I explore [research 🔍](https://jjydxfs.github.io/academic), [reading 📚](https://book.douban.com/people/182295432/), and [photography 📷](https://www.notion.so/1cc22c488e38804d85cbc480842eda4a?source=copy_link).
 
 ## 🧰 Languages and Tools:
 <p align="center">
